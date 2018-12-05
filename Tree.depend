@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1544021206 source:d:\document\esilv\parcoursrecherche\tree\main.cpp
+	<iostream>
+	<cstdio>
+	<fstream>
+	<vector>
+	<queue>
+
