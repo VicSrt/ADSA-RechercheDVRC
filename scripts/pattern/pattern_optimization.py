@@ -1,16 +1,3 @@
-#!/usr/bin/env python
-# coding: utf8
-
-#==============================================================================
-#title           :patter_optimization.py
-#description     :optimize a created automata from samples
-#author          :POUSSEUR Hugo
-#date            :20180705
-#version         :0.1
-#usage           :python patter_optimization.py
-#python_version  :2.7
-#==============================================================================
-
 
 # ----------------- Imports -------------------------
 
